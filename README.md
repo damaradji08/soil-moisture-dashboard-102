@@ -96,9 +96,4 @@ streamlit run app.py
 
 ---
 
-## Author
-Name: Damar Adji Sasongko  
-NPM: 23082010102
----
 
-## Project Structure
